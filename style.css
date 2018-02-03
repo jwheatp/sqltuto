@@ -1,0 +1,45 @@
+html,body,.container-fluid {
+  height:100%;
+
+}
+.container-fluid {
+
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 56px 0 0 0;
+  margin-top: -56px;
+}
+.row {
+  height: 100%;
+
+}
+
+.bg {
+  background: url("https://ak1.picdn.net/shutterstock/videos/823441/thumb/1.jpg") center;
+  background-size: cover;
+}
+.bg-open {
+  background: url("https://d1hl0z0ja1o93t.cloudfront.net/wp-content/uploads/2017/11/16110019/bank-vault.jpg") center;
+  background-size: cover;
+}
+.content {
+  background: white;
+  padding: 30px 50px;
+}
+#result {
+  margin-top: 100px;
+}
+#result {
+  color: black;
+}
+.barre {
+  color: lightgrey;
+  text-decoration: line-through;
+}
+td {
+  color: black;
+}
+#database-form {
+  display: none;
+}
